@@ -1,0 +1,17 @@
+msgid "Visitor Options"
+msgstr "访客可以访问"
+
+msgid "Find, install and publish CakePHP plugins with the CakePHP Package Index"
+msgstr "图片"
+
+msgid "Images"
+msgstr "图片"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Login"
+msgstr "登录"
